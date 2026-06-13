@@ -1,4 +1,10 @@
-.bg-darker{
-  background-color: rgb(255, 0, 0);
+.bg-darker {
+  /* background-color: rgb(255, 0, 0); */
 }
 
+.main-title {
+  background-image: url(./Photos/s1k.jpeg);
+  min-height: 25rem;
+  background-size: cover;
+  background-position: center;
+}

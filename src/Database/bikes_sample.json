@@ -1,0 +1,312 @@
+[
+  {
+    "id": 1,
+    "bike_name": "Classic 350",
+    "brand": "Royal Enfield",
+    "thumbnail_image": "https://placehold.co/600x400/1a1a2e/c8a876?text=Classic%20350%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/1a1a2e/c8a876?text=Classic%20350%2BView%2B1",
+      "https://placehold.co/600x400/1a1a2e/c8a876?text=Classic%20350%2BView%2B2",
+      "https://placehold.co/600x400/1a1a2e/c8a876?text=Classic%20350%2BView%2B3"
+    ],
+    "description": "Well-maintained retro-styled motorcycle.",
+    "content": "Single owner, regularly serviced, excellent condition.",
+    "pricing": 185000,
+    "model_year": 2022,
+    "kilometers_traveled": 12500
+  },
+  {
+    "id": 2,
+    "bike_name": "Apache RTR 200 4V",
+    "brand": "TVS",
+    "thumbnail_image": "https://placehold.co/600x400/0f3460/e94560?text=Apache%20RTR%20200%204V%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/0f3460/e94560?text=Apache%20RTR%20200%204V%2BView%2B1",
+      "https://placehold.co/600x400/0f3460/e94560?text=Apache%20RTR%20200%204V%2BView%2B2"
+    ],
+    "description": "Sporty street bike with responsive handling.",
+    "content": "New tires fitted recently and service records available.",
+    "pricing": 145000,
+    "model_year": 2021,
+    "kilometers_traveled": 18500
+  },
+  {
+    "id": 3,
+    "bike_name": "Pulsar NS200",
+    "brand": "Bajaj",
+    "thumbnail_image": "https://placehold.co/600x400/16213e/0f3460?text=Pulsar%20NS200%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/16213e/0f3460?text=Pulsar%20NS200%2BView%2B1",
+      "https://placehold.co/600x400/16213e/0f3460?text=Pulsar%20NS200%2BView%2B2",
+      "https://placehold.co/600x400/16213e/0f3460?text=Pulsar%20NS200%2BView%2B3"
+    ],
+    "description": "Performance-oriented naked motorcycle.",
+    "content": "Accident-free vehicle with updated insurance.",
+    "pricing": 132000,
+    "model_year": 2020,
+    "kilometers_traveled": 22000
+  },
+  {
+    "id": 4,
+    "bike_name": "Duke 390",
+    "brand": "KTM",
+    "thumbnail_image": "https://placehold.co/600x400/1a0000/ff6600?text=Duke%20390%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/1a0000/ff6600?text=Duke%20390%2BView%2B1",
+      "https://placehold.co/600x400/1a0000/ff6600?text=Duke%20390%2BView%2B2",
+      "https://placehold.co/600x400/1a0000/ff6600?text=Duke%20390%2BView%2B3"
+    ],
+    "description": "High-performance naked streetfighter with aggressive styling.",
+    "content": "Single owner, all service done at authorized KTM service center.",
+    "pricing": 310000,
+    "model_year": 2022,
+    "kilometers_traveled": 9800
+  },
+  {
+    "id": 5,
+    "bike_name": "CB Hornet 160R",
+    "brand": "Honda",
+    "thumbnail_image": "https://placehold.co/600x400/cc0000/ffffff?text=CB%20Hornet%20160R%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/cc0000/ffffff?text=CB%20Hornet%20160R%2BView%2B1",
+      "https://placehold.co/600x400/cc0000/ffffff?text=CB%20Hornet%20160R%2BView%2B2"
+    ],
+    "description": "Sporty commuter with muscular design and fuel efficiency.",
+    "content": "Well-maintained with all original parts intact. No scratches.",
+    "pricing": 95000,
+    "model_year": 2021,
+    "kilometers_traveled": 15200
+  },
+  {
+    "id": 6,
+    "bike_name": "FZ-S V3",
+    "brand": "Yamaha",
+    "thumbnail_image": "https://placehold.co/600x400/003087/c8a400?text=FZ-S%20V3%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/003087/c8a400?text=FZ-S%20V3%2BView%2B1",
+      "https://placehold.co/600x400/003087/c8a400?text=FZ-S%20V3%2BView%2B2",
+      "https://placehold.co/600x400/003087/c8a400?text=FZ-S%20V3%2BView%2B3"
+    ],
+    "description": "Stylish street motorcycle with fuel injection technology.",
+    "content": "Two owners, second owner from 2023. Serviced regularly at Yamaha dealer.",
+    "pricing": 110000,
+    "model_year": 2021,
+    "kilometers_traveled": 20300
+  },
+  {
+    "id": 7,
+    "bike_name": "Dominar 400",
+    "brand": "Bajaj",
+    "thumbnail_image": "https://placehold.co/600x400/16213e/0f3460?text=Dominar%20400%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/16213e/0f3460?text=Dominar%20400%2BView%2B1",
+      "https://placehold.co/600x400/16213e/0f3460?text=Dominar%20400%2BView%2B2"
+    ],
+    "description": "Powerful touring motorcycle with sporty character.",
+    "content": "Accessories added: crash guard, knuckle guard, and tank pad.",
+    "pricing": 225000,
+    "model_year": 2021,
+    "kilometers_traveled": 28000
+  },
+  {
+    "id": 8,
+    "bike_name": "Meteor 350",
+    "brand": "Royal Enfield",
+    "thumbnail_image": "https://placehold.co/600x400/1a1a2e/c8a876?text=Meteor%20350%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/1a1a2e/c8a876?text=Meteor%20350%2BView%2B1",
+      "https://placehold.co/600x400/1a1a2e/c8a876?text=Meteor%20350%2BView%2B2",
+      "https://placehold.co/600x400/1a1a2e/c8a876?text=Meteor%20350%2BView%2B3"
+    ],
+    "description": "Modern cruiser with relaxed ergonomics and retro charm.",
+    "content": "Single owner, kept in covered parking. Original color and parts.",
+    "pricing": 195000,
+    "model_year": 2022,
+    "kilometers_traveled": 11000
+  },
+  {
+    "id": 9,
+    "bike_name": "Gixxer 250",
+    "brand": "Suzuki",
+    "thumbnail_image": "https://placehold.co/600x400/003399/cc9900?text=Gixxer%20250%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/003399/cc9900?text=Gixxer%20250%2BView%2B1",
+      "https://placehold.co/600x400/003399/cc9900?text=Gixxer%20250%2BView%2B2"
+    ],
+    "description": "Quarter-litre sporty motorcycle with twin-cylinder engine.",
+    "content": "No accidents, tyres replaced at 15000 km. Clean title.",
+    "pricing": 175000,
+    "model_year": 2021,
+    "kilometers_traveled": 17800
+  },
+  {
+    "id": 10,
+    "bike_name": "RC 390",
+    "brand": "KTM",
+    "thumbnail_image": "https://placehold.co/600x400/1a0000/ff6600?text=RC%20390%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/1a0000/ff6600?text=RC%20390%2BView%2B1",
+      "https://placehold.co/600x400/1a0000/ff6600?text=RC%20390%2BView%2B2",
+      "https://placehold.co/600x400/1a0000/ff6600?text=RC%20390%2BView%2B3"
+    ],
+    "description": "Track-focused supersport motorcycle with aggressive fairing.",
+    "content": "Used for weekend rides only. Slipper clutch and cornering ABS intact.",
+    "pricing": 335000,
+    "model_year": 2022,
+    "kilometers_traveled": 8200
+  },
+  {
+    "id": 11,
+    "bike_name": "Splendor Plus",
+    "brand": "Hero",
+    "thumbnail_image": "https://placehold.co/600x400/003366/ff6600?text=Splendor%20Plus%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/003366/ff6600?text=Splendor%20Plus%2BView%2B1",
+      "https://placehold.co/600x400/003366/ff6600?text=Splendor%20Plus%2BView%2B2"
+    ],
+    "description": "India's most trusted and fuel-efficient commuter bike.",
+    "content": "Excellent mileage, recently overhauled engine. All documents ready.",
+    "pricing": 62000,
+    "model_year": 2020,
+    "kilometers_traveled": 35000
+  },
+  {
+    "id": 12,
+    "bike_name": "Interceptor 650",
+    "brand": "Royal Enfield",
+    "thumbnail_image": "https://placehold.co/600x400/1a1a2e/c8a876?text=Interceptor%20650%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/1a1a2e/c8a876?text=Interceptor%20650%2BView%2B1",
+      "https://placehold.co/600x400/1a1a2e/c8a876?text=Interceptor%20650%2BView%2B2",
+      "https://placehold.co/600x400/1a1a2e/c8a876?text=Interceptor%20650%2BView%2B3"
+    ],
+    "description": "Parallel twin cruiser with classic British heritage styling.",
+    "content": "Touring accessories included: saddlebags and handlebar bag.",
+    "pricing": 295000,
+    "model_year": 2021,
+    "kilometers_traveled": 23500
+  },
+  {
+    "id": 13,
+    "bike_name": "R15 V4",
+    "brand": "Yamaha",
+    "thumbnail_image": "https://placehold.co/600x400/003087/c8a400?text=R15%20V4%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/003087/c8a400?text=R15%20V4%2BView%2B1",
+      "https://placehold.co/600x400/003087/c8a400?text=R15%20V4%2BView%2B2"
+    ],
+    "description": "Full-fairing supersport with VVA technology and racing DNA.",
+    "content": "Single owner, no modifications. All original paint and parts.",
+    "pricing": 168000,
+    "model_year": 2022,
+    "kilometers_traveled": 10500
+  },
+  {
+    "id": 14,
+    "bike_name": "Platina 110",
+    "brand": "Bajaj",
+    "thumbnail_image": "https://placehold.co/600x400/16213e/0f3460?text=Platina%20110%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/16213e/0f3460?text=Platina%20110%2BView%2B1",
+      "https://placehold.co/600x400/16213e/0f3460?text=Platina%20110%2BView%2B2"
+    ],
+    "description": "Comfortable everyday commuter with combi-brake system.",
+    "content": "Great mileage, smooth ride. Insurance valid till next year.",
+    "pricing": 58000,
+    "model_year": 2021,
+    "kilometers_traveled": 29000
+  },
+  {
+    "id": 15,
+    "bike_name": "Ninja 300",
+    "brand": "Kawasaki",
+    "thumbnail_image": "https://placehold.co/600x400/1a3300/99cc00?text=Ninja%20300%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/1a3300/99cc00?text=Ninja%20300%2BView%2B1",
+      "https://placehold.co/600x400/1a3300/99cc00?text=Ninja%20300%2BView%2B2",
+      "https://placehold.co/600x400/1a3300/99cc00?text=Ninja%20300%2BView%2B3"
+    ],
+    "description": "Entry-level supersport with parallel twin motor and sporty fairing.",
+    "content": "Second owner, purchased 2023. All service records maintained.",
+    "pricing": 280000,
+    "model_year": 2020,
+    "kilometers_traveled": 19600
+  },
+  {
+    "id": 16,
+    "bike_name": "Shine 125",
+    "brand": "Honda",
+    "thumbnail_image": "https://placehold.co/600x400/cc0000/ffffff?text=Shine%20125%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/cc0000/ffffff?text=Shine%20125%2BView%2B1",
+      "https://placehold.co/600x400/cc0000/ffffff?text=Shine%20125%2BView%2B2"
+    ],
+    "description": "Refined commuter motorcycle with Honda's proven reliability.",
+    "content": "Used by office-goer, city rides only. Excellent bodywork condition.",
+    "pricing": 75000,
+    "model_year": 2021,
+    "kilometers_traveled": 21000
+  },
+  {
+    "id": 17,
+    "bike_name": "Himalayan",
+    "brand": "Royal Enfield",
+    "thumbnail_image": "https://placehold.co/600x400/1a1a2e/c8a876?text=Himalayan%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/1a1a2e/c8a876?text=Himalayan%2BView%2B1",
+      "https://placehold.co/600x400/1a1a2e/c8a876?text=Himalayan%2BView%2B2",
+      "https://placehold.co/600x400/1a1a2e/c8a876?text=Himalayan%2BView%2B3"
+    ],
+    "description": "Purpose-built adventure tourer for highways and rough terrain.",
+    "content": "Leh-Manali trip done once. Crash guards and skid plates fitted.",
+    "pricing": 220000,
+    "model_year": 2021,
+    "kilometers_traveled": 32000
+  },
+  {
+    "id": 18,
+    "bike_name": "Apache RTR 160 4V",
+    "brand": "TVS",
+    "thumbnail_image": "https://placehold.co/600x400/0f3460/e94560?text=Apache%20RTR%20160%204V%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/0f3460/e94560?text=Apache%20RTR%20160%204V%2BView%2B1",
+      "https://placehold.co/600x400/0f3460/e94560?text=Apache%20RTR%20160%204V%2BView%2B2"
+    ],
+    "description": "Race-tuned 160cc street bike with oil-cooled engine.",
+    "content": "Dual disc variant. Service done at authorized TVS center.",
+    "pricing": 105000,
+    "model_year": 2022,
+    "kilometers_traveled": 13700
+  },
+  {
+    "id": 19,
+    "bike_name": "Xpulse 200",
+    "brand": "Hero",
+    "thumbnail_image": "https://placehold.co/600x400/003366/ff6600?text=Xpulse%20200%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/003366/ff6600?text=Xpulse%20200%2BView%2B1",
+      "https://placehold.co/600x400/003366/ff6600?text=Xpulse%20200%2BView%2B2",
+      "https://placehold.co/600x400/003366/ff6600?text=Xpulse%20200%2BView%2B3"
+    ],
+    "description": "Adventure motorcycle with long-travel suspension and rally styling.",
+    "content": "Off-road use minimal. All terrain tires replaced with street tires.",
+    "pricing": 140000,
+    "model_year": 2021,
+    "kilometers_traveled": 16800
+  },
+  {
+    "id": 20,
+    "bike_name": "Duke 200",
+    "brand": "KTM",
+    "thumbnail_image": "https://placehold.co/600x400/1a0000/ff6600?text=Duke%20200%2BThumbnail",
+    "images": [
+      "https://placehold.co/600x400/1a0000/ff6600?text=Duke%20200%2BView%2B1",
+      "https://placehold.co/600x400/1a0000/ff6600?text=Duke%20200%2BView%2B2"
+    ],
+    "description": "Lightweight naked streetfighter with punchy single-cylinder engine.",
+    "content": "Original exhaust included along with aftermarket slip-on installed.",
+    "pricing": 185000,
+    "model_year": 2021,
+    "kilometers_traveled": 14500
+  }
+]
